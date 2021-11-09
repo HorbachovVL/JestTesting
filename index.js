@@ -1,4 +1,4 @@
 const sum = (a, b) => a + b;
-const nul = () => null;
+const nativeNull = () => null;
 
-module.exports = {sum, nul};
+module.exports = {sum, nativeNull};
